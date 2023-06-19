@@ -48,5 +48,5 @@ To compile the script into a standalone executable, you can use PyInstaller. PyI
 Run the following command to compile the script:
 
 ```bash
-pyinstaller --noconfirm --onefile --windowed --icon=imgtopdf.ico fastimgtopdf.py
+pyinstaller --noconfirm --onefile --windowed --icon=media/imgtopdf.ico fastimgtopdf.py
 ```
